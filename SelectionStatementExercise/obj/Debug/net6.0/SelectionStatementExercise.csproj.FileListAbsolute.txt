@@ -1,0 +1,15 @@
+/Users/maryamkhamis/Desktop/TrueCoders/Repos/Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise
+/Users/maryamkhamis/Desktop/TrueCoders/Repos/Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.deps.json
+/Users/maryamkhamis/Desktop/TrueCoders/Repos/Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.runtimeconfig.json
+/Users/maryamkhamis/Desktop/TrueCoders/Repos/Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.dll
+/Users/maryamkhamis/Desktop/TrueCoders/Repos/Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.pdb
+/Users/maryamkhamis/Desktop/TrueCoders/Repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.csproj.AssemblyReference.cache
+/Users/maryamkhamis/Desktop/TrueCoders/Repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maryamkhamis/Desktop/TrueCoders/Repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.AssemblyInfoInputs.cache
+/Users/maryamkhamis/Desktop/TrueCoders/Repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.AssemblyInfo.cs
+/Users/maryamkhamis/Desktop/TrueCoders/Repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.csproj.CoreCompileInputs.cache
+/Users/maryamkhamis/Desktop/TrueCoders/Repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.dll
+/Users/maryamkhamis/Desktop/TrueCoders/Repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/refint/SelectionStatementExercise.dll
+/Users/maryamkhamis/Desktop/TrueCoders/Repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.pdb
+/Users/maryamkhamis/Desktop/TrueCoders/Repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.genruntimeconfig.cache
+/Users/maryamkhamis/Desktop/TrueCoders/Repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/ref/SelectionStatementExercise.dll
